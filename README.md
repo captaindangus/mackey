@@ -122,3 +122,9 @@ MacKey/
 ```
 
 No external NuGet packages, no runtime to install, no telemetry.
+
+---
+
+## License
+
+MIT — see [LICENSE](LICENSE).
